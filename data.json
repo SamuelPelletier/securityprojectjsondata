@@ -3,24 +3,24 @@
 			"id": 1,
 			"titre": "Plomberie",
 			"items": [{
-					"titre": "tuyau",
-					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
+					"title": "tuyau",
+					"urlLogo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
-					"image": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
+					"urlImage": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
 					"description": "Je suis la description du tuyau"
 				},
 				{
-					"titre": "Machine \u00e0 laver",
-					"logo": "",
+					"title": "Machine \u00e0 laver",
+					"urlLogo": "",
 					"regle": "Bonjour je suis une machine \u00e0 laver !",
-					"image": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
+					"urlImage": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
 					"description": "Je suis la description de la machine \u00e0 laver"
 				},
 				{
-					"titre": "Lave vaisselle",
-					"logo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
+					"title": "Lave vaisselle",
+					"urlLogo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
 					"regle": "Bonjour je suis un lave vaisselle !",
-					"image": "",
+					"urlImage": "",
 					"description": "Je suis la description du lave vaisselle"
 				}
 			]
@@ -31,24 +31,24 @@
 			"id": 2,
 			"titre": "Securite",
 			"items": [{
-					"titre": "tuyau",
-					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
+					"title": "tuyau",
+					"urlLogo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
-					"image": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
+					"urlImage": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
 					"description": "Je suis la description du tuyau"
 				},
 				{
-					"titre": "Machine \u00e0 laver",
-					"logo": "",
+					"title": "Machine \u00e0 laver",
+					"urlLogo": "",
 					"regle": "Bonjour je suis une machine \u00e0 laver !",
-					"image": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
+					"urlImage": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
 					"description": "Je suis la description de la machine \u00e0 laver"
 				},
 				{
-					"titre": "Lave vaisselle",
-					"logo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
+					"title": "Lave vaisselle",
+					"urlLogo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
 					"regle": "Bonjour je suis un lave vaisselle !",
-					"image": "",
+					"urlImage": "",
 					"description": "Je suis la description du lave vaisselle"
 				}
 			]
@@ -58,24 +58,24 @@
 			"id": 3,
 			"titre": "Chauffage",
 			"items": [{
-					"titre": "tuyau",
-					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
+					"title": "tuyau",
+					"urlLogo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
-					"image": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
+					"urlImage": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
 					"description": "Je suis la description du tuyau"
 				},
 				{
-					"titre": "Machine \u00e0 laver",
-					"logo": "",
+					"title": "Machine \u00e0 laver",
+					"urlLogo": "",
 					"regle": "Bonjour je suis une machine \u00e0 laver !",
-					"image": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
+					"urlImage": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
 					"description": "Je suis la description de la machine \u00e0 laver"
 				},
 				{
-					"titre": "Lave vaisselle",
-					"logo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
+					"title": "Lave vaisselle",
+					"urlLogo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
 					"regle": "Bonjour je suis un lave vaisselle !",
-					"image": "",
+					"urlImage": "",
 					"description": "Je suis la description du lave vaisselle"
 				}
 			]
