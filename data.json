@@ -1,6 +1,8 @@
 {
 	"Categories": [{
-			"Plomberie": [{
+			"id": 1,
+			"titre": "Plomberie",
+			"items": [{
 					"titre": "tuyau",
 					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
@@ -26,7 +28,9 @@
 
 		},
 		{
-			"Securite": [{
+			"id": 2,
+			"titre": "Securite",
+			"items": [{
 					"titre": "tuyau",
 					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
@@ -51,7 +55,9 @@
 
 		},
 		{
-			"Chauffage": [{
+			"id": 3,
+			"titre": "Chauffage",
+			"items": [{
 					"titre": "tuyau",
 					"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
 					"regle": "Bonjour je suis un tuyau !",
