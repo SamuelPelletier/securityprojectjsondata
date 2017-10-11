@@ -1,0 +1,24 @@
+{
+		"Categorie": [{
+				"titre": "tuyau",
+				"logo": "https:\/\/www.achat-plomberie.fr\/prodimages\/Photos\/11440.jpg",
+				"regle": "Bonjour je suis un tuyau !",
+				"image": "https:\/\/sc02.alicdn.com\/kf\/HTB1JwCvKpXXXXaCXpXXq6xXFXXXg\/silicone-hose-customized-logo-1-inch-rubber.jpg",
+				"description": "Je suis la description du tuyau"
+			},
+			{
+				"titre": "Machine \u00e0 laver",
+				"logo": "",
+				"regle": "Bonjour je suis une machine \u00e0 laver !",
+				"image": "http:\/\/www.laverie-discount.com\/images\/bl_1419289_image1.jpg",
+				"description": "Je suis la description de la machine \u00e0 laver"
+			},
+			{
+				"titre": "Lave vaisselle",
+				"logo": "https:\/\/www.tupperware.fr\/assets\/images\/mediacenter-images\/000941-Symbole-01.png",
+				"regle": "Bonjour je suis un lave vaisselle !",
+				"image": "",
+				"description": "Je suis la description du lave vaisselle"
+			}
+		]
+	}
